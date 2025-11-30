@@ -1,0 +1,59 @@
+Country Name,Country Code,Series Name,Series Code,2021 [YR2021]
+Kenya,KEN,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",SE.PRM.CUAT.FE.ZS,72.6540374755859
+Kenya,KEN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.312
+Kenya,KEN,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.PO.FE.ZS,5.19815200560914
+Nigeria,NGA,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",SE.PRM.CUAT.FE.ZS,57.8193588256836
+Nigeria,NGA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.636
+Nigeria,NGA,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.PO.FE.ZS,..
+,,,,
+,,,,
+,,,,
+Data from database: World Development Indicators,,,,
+Last Updated: 10/07/2025,,,,
+Code,License Type,Indicator Name,Short definition,Long definition,Source,Topic,Dataset,Unit of measure,Periodicity,Reference period,Aggregation method,Statistical concept and methodology,Development relevance,Limitations and exceptions,Other notes,License URL
+SE.PRM.CUAT.FE.ZS,CC BY-4.0,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",The percentage of population ages 25 and over that attained or completed primary education.,The percentage of population ages 25 and over that attained or completed primary education.,"Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Bulk file (csv), date accessed: 2025-09-22, date published: 2025-09",Education: Outcomes,WDI,% of female population ages 25+,Annual,1970-2023,,"Methodology: It is calculated by dividing the number of population ages 25 and older who attained or completed primary education by the total population of the same age group and multiplying by 100. The number 0 means zero or small enough that the number would round to zero. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data are collected by the UNESCO Institute for Statistics mainly from national population census, household survey, and labour force survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011.
+Statistical concept(s): Educational attainment indicators by education level, serve as a measure of the accumulated stock of knowledge, skills, and competencies that are typically associated with the completion of each level. These indicators not only shed light on the disparities in educational achievement among various demographic groups, thereby offering insights into the present and past efficacy of the education system in ensuring equitable access to education, but they also mirror the structure and performance of the education system itself. Furthermore, such indicators are instrumental in guiding policy decisions aimed at expanding educational opportunities.","A relative high concentration of the adult population in a given level of education reflects the capacity of the educational system in the corresponding level of education. Educational attainment is closely related to the skills and competencies of a country's population, and could be seen as a proxy of both the quantitative and qualitative aspects of the stock of human capital?","Caution is required when using this indicator for cross-country comparison, since the countries do not always classify degrees and qualifications at the same International Standard Classification of Education (ISCED) levels, even if they are received at roughly the same age or after a similar number of years of schooling. Also, certain educational programmes and study courses cannot be easily classified according to ISCED. This indicator only measures educational attainment in terms of level of education attained, i.e. years of schooling, and do not necessarily reveal the quality of the education (learning achievement and other impacts).",,https://datacatalog.worldbank.org/public-licenses#cc-by
+SP.DYN.TFRT.IN,CC BY-4.0,"Fertility rate, total (births per woman)",Total fertility rate represents the number of children that would be born to a woman if she were to live to the end of her childbearing years and bear children in accordance with age-specific fertility rates of the specified year.,Total fertility rate represents the number of children that would be born to a woman if she were to live to the end of her childbearing years and bear children in accordance with age-specific fertility rates of the specified year.,"World Population Prospects, United Nations (UN), publisher: UN Population Division;
+Statistical databases and publications from national statistical offices, National statistical offices;
+Demographic Statistics, Eurostat (ESTAT)",Health: Reproductive health,WDI,Births per woman,Annual,1960-2023,Weighted average,"Methodology: Total fertility rate is the sum of the age-specific fertility rates (multiplied by five, if the age-specific fertility rates are for 5-year age groups).
+Statistical concept(s): Total fertility rates are based on data on registered live births from vital registration systems or, in the absence of such systems, from censuses or sample surveys. The estimated rates are generally considered reliable measures of fertility in the recent past. Where no empirical information on age-specific fertility rates is available, a model is used to estimate the share of births to adolescents. For countries without reliable vital registration systems fertility rates are generally based on extrapolations from trends observed in censuses or surveys from earlier years.","Reproductive health is a state of physical and mental well-being in relation to the reproductive system and its functions and processes. Means of achieving reproductive health include education and services during pregnancy and childbirth, safe and effective contraception, and prevention and treatment of sexually transmitted diseases. Complications of pregnancy and childbirth are the leading cause of death and disability among women of reproductive age in developing countries.",Annual data series from United Nations Population Division's World Population Prospects are interpolated data from 5-year period data. Therefore they may not reflect real events as much as observed data.,Relevance to gender indicator: it can indicate the status of women within households and a woman’s decision about the number and spacing of children.,https://datacatalog.worldbank.org/public-licenses#cc-by
+SE.SEC.CUAT.PO.FE.ZS,CC BY-4.0,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",The percentage of population ages 25 and over that attained or completed post-secondary non-tertiary education.,The percentage of population ages 25 and over that attained or completed post-secondary non-tertiary education.,"Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Bulk file (csv), date accessed: 2025-09-22, date published: 2025-09",Education: Outcomes,WDI,% of female population ages 25+,Annual,1970-2023,,"Methodology: It is calculated by dividing the number of population ages 25 and older who attained or completed post-secondary non-tertiary education by the total population of the same age group and multiplying by 100. The number 0 means zero or small enough that the number would round to zero. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data are collected by the UNESCO Institute for Statistics mainly from national population census, household survey, and labour force survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011.
+Statistical concept(s): Educational attainment indicators by education level, serve as a measure of the accumulated stock of knowledge, skills, and competencies that are typically associated with the completion of each level. These indicators not only shed light on the disparities in educational achievement among various demographic groups, thereby offering insights into the present and past efficacy of the education system in ensuring equitable access to education, but they also mirror the structure and performance of the education system itself. Furthermore, such indicators are instrumental in guiding policy decisions aimed at expanding educational opportunities.","A relative high concentration of the adult population in a given level of education reflects the capacity of the educational system in the corresponding level of education. Educational attainment is closely related to the skills and competencies of a country's population, and could be seen as a proxy of both the quantitative and qualitative aspects of the stock of human capital.","Caution is required when using this indicator for cross-country comparison, since the countries do not always classify degrees and qualifications at the same International Standard Classification of Education (ISCED) levels, even if they are received at roughly the same age or after a similar number of years of schooling. Also, certain educational programmes and study courses cannot be easily classified according to ISCED. This indicator only measures educational attainment in terms of level of education attained, i.e. years of schooling, and do not necessarily reveal the quality of the education (learning achievement and other impacts).",,https://datacatalog.worldbank.org/public-licenses#cc-by
